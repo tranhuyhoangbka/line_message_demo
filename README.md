@@ -24,5 +24,7 @@ Things you may want to cover:
 * ...
 * Links
 https://developers.line.biz/en/docs/messaging-api/linking-accounts/#implement-account-link-feature
+
 https://github.com/line/line-bot-sdk-ruby/blob/master/lib/line/bot/client.rb
+
 https://github.com/kkdai/line-account-link
