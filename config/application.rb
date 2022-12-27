@@ -16,6 +16,7 @@ module Demo
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
     config.eager_load_paths << Rails.root.join('lib')
+    config.eager_load_paths << Rails.root.join('lib/*/*')
     config.hosts << "2150-103-23-147-162.ap.ngrok.io"
   end
 end
